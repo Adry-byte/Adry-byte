@@ -1,2 +1,2 @@
-# Adry-byte
+# Algorithm
 Hi
